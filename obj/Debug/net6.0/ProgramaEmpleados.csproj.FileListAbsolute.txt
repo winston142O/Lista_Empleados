@@ -1,0 +1,15 @@
+D:\Coding\C#\Projects\ProgramaEmpleados\bin\Debug\net6.0\ProgramaEmpleados.exe
+D:\Coding\C#\Projects\ProgramaEmpleados\bin\Debug\net6.0\ProgramaEmpleados.deps.json
+D:\Coding\C#\Projects\ProgramaEmpleados\bin\Debug\net6.0\ProgramaEmpleados.runtimeconfig.json
+D:\Coding\C#\Projects\ProgramaEmpleados\bin\Debug\net6.0\ProgramaEmpleados.dll
+D:\Coding\C#\Projects\ProgramaEmpleados\bin\Debug\net6.0\ProgramaEmpleados.pdb
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\ProgramaEmpleados.csproj.AssemblyReference.cache
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\ProgramaEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\ProgramaEmpleados.AssemblyInfoInputs.cache
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\ProgramaEmpleados.AssemblyInfo.cs
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\ProgramaEmpleados.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\ProgramaEmpleados.dll
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\refint\ProgramaEmpleados.dll
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\ProgramaEmpleados.pdb
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\ProgramaEmpleados.genruntimeconfig.cache
+D:\Coding\C#\Projects\ProgramaEmpleados\obj\Debug\net6.0\ref\ProgramaEmpleados.dll

@@ -1,0 +1,18 @@
+Nombre: Winston Emill Pichardo Rodríguez
+ID: 1115997
+Materia: Tecnología de los objetos.
+
+Tarea: Ejercicio Práctico
+
+    Construya una definición de clase que pueda usarse para representar a un empleado de una compañía.
+    Cada empleado es definido por un número entero de identificación, una tasa salarial en punto flotante
+    y el número máximo de horas que el empleado debería trabajar cada semana. Los servicios de la clase deberán proporcionar
+    la capacidad para introducir datos, cambiar datos y desplegar los datos existentes para un empleado nuevo.
+
+    Incluir un menú que ofrezca al usuario las siguientes opciones:
+        1. Agregar un empleado
+        2. Modificar los datos del empleado
+        3. Eliminar a un empleado
+        4. Salir de este menú
+
+    En respuesta a una opción el programa deberá iniciar la acción apropiada para implementar la opción.
